@@ -1,0 +1,42 @@
+{
+    "L0": " <?> EDIT CONFIGURED KEYS HERE <?> ",
+    "L1": " <~> H-CHEAT by loTus & Hawks <~> ",
+
+
+    "L2": " <!> Hacks Keys <!> ",
+
+    "Wall_Hack_KEY": "1",
+    "Anti_flash_KEY": "2",
+    "Radar_KEY": "3",
+    "B_Hop_KEY": "Key.space",
+    "Exit_KEY": "9",
+    "Display_Rank": "4",
+    "zoom_up": "Key.up",
+    "zoom_back": "Key.down",
+    "Triger_Bot_KEY_TOGGLE": "5",
+    "Triger_Bot_KEY_ACCTIVATE": "shift",
+
+    "L3": " <!> CSGO Keys <!> ",
+
+    "Foward": "W",
+    "Left": "A",
+    "Backward": "S",
+    "Right": "D",
+    "Shop": "B",
+    "Drop_Weapond": "G",
+
+
+    "L4": " <!> Menu Keys <!> ",
+    "L5": " <!> WARNING: DO NOT CHANGE THOSE<!> ",
+
+    "Main_Menu": "F1",
+    "Cheats_Menu": "F2",
+    "Macro_Menu": "F3",
+
+    "L6": " <!> Macro Keys <!> ",
+
+    "Anti_AFK_KEY": "1"
+
+
+
+}
