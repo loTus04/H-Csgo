@@ -8,7 +8,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/loTus04/RATata/blob/main/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/loTus04/RATata" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/loTus04/H-Csgo" />
   </a>
 </p>
 
@@ -17,7 +17,8 @@
 ### 🏠 [Homepage](https://github.com/loTus04/H-Csgo/blob/main/README.md)
 
 ### ✨ [Demo](https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png)
-<img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png" width="700" height="450" />
+<img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png" width="466" height="300"/> <img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown2.png" width="466" height="300"/>
+
 
 
 ## Prerequisites
@@ -46,14 +47,24 @@ Features:
 
 ```
 
+## USAGE
+
+```
+1. Run the H-Cheat.py file
+2. Run the injector.py file
+
+This will male H-Csgo only show up when you pres <DELET> on your keyboard
+
+```
+
 ## Author
 
-👤 **RAT:** [@loTus01](https://github.com/loTus04)<br />
-👤 **API:** [@ghostfighter50](https://github.com/ghostfighter50)
+👤 [@loTus01](https://github.com/loTus04)<br />
+👤 [@HawksDev](https://github.com/HawksDev)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/RATata/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/H-Csgo/issues).
 
 ## Show your support
 
