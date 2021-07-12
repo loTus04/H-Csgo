@@ -1,0 +1,6 @@
+requests
+pymem
+keyboard
+colorama
+pynput
+psutil
