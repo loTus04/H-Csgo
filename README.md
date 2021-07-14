@@ -62,7 +62,7 @@ This will male H-Csgo only show up when you pres <DELET> on your keyboard
 
 ## Author
 
-👤 [@loTus01](https://github.com/loTus04)
+👤 [@loTus01](https://github.com/loTus04)</br>
 👤 [@HawksDev](https://github.com/HawksDev)
 
 ⭐️ Credit to https://github.com/Snaacky/ and unknowncheats who helped us learn about Csgo Cheats with there work
