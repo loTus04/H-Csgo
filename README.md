@@ -62,12 +62,14 @@ This will male H-Csgo only show up when you pres <DELET> on your keyboard
 
 ## Author
 
-👤 [@loTus01](https://github.com/loTus04)<br />
+👤 [@loTus01](https://github.com/loTus04)
 👤 [@HawksDev](https://github.com/HawksDev)
+
+⭐️ Credit to https://github.com/Snaacky/ and unknowncheats who helped us learn about Csgo Cheats with there work
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/H-Csgo/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/H-Csgo/issues).\
 
 ## Show your support
 
