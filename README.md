@@ -20,9 +20,6 @@
 <img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png" width="570" height="380"/> 
 <img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown2.png" width="570" height="380"/>
 </br>
-<img src="https://github.com/loTus04/H-Csgo/blob/main/img/warning.png" width="570" height="100"/>
-
-
 
 ## Prerequisites
 
@@ -41,7 +38,7 @@ pip3 install -r requirements.txt
 H-Csgo is a Counter-Strike: Global Offensive External Cheat made with Python
 
 Features:
-  - Whall Hack
+  - Whall Hack    (Broken)
   - Anti Flash
   - Radar Hack
   - Enemy Rank Reveal
