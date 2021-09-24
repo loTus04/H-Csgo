@@ -664,47 +664,9 @@ def on_press(key):
 
 
 
-def check_hwid():
-    hwid = subprocess.check_output('wmic csproduct get uuid').decode().split('\n')[1].strip()
-    print(f" [~] HWID: {hwid}")
+# (had an hwid check here before)
+result = "good"
 
-    try:
-        r = requests.get(f'https://hcheat-shop.mtxserv.com/api/api_traitement.php?hwid={hwid}')
-    except:
-        print(f' {Fore.RED}[ERROR]{Fore.RESET} Failed to connect to database')
-        input()
-        exit()
-
-    result = str(r.text)
-
-    if len(result) > 8:
-        r_res = result.split(",")
-        createdDate = r_res[0]
-        keyTime = r_res[1]
-
-        day_left = (int(createdDate) + int(keyTime)) - int(time.time())
-        day_left = day_left/24/60/60
-        day_left = round(day_left)
-        print(f" [~] Time Left: {day_left} Days")
-        if int(createdDate) + int(keyTime) > int(time.time()): 
-            result = "good"
-            return result
-        
-        else:
-            print(f" {Fore.RED}[ERROR]{Fore.RESET} KEY Explired")
-            input()
-            exit()
-
-    else:
-        print(banner)
-        print(f' {Fore.RED}[ERROR]{Fore.RESET} HWID Not in Database')
-        print(f' [?] HWID: \33[4m{hwid}{Style.RESET_ALL}') 
-        input()
-        exit()
-
-# on start
-
-result = check_hwid()
 if result == "good":
     no_scgo = True
     print(f" {Fore.RED}[?]{Fore.RESET} CSGO not Detected")
