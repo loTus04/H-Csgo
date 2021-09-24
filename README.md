@@ -41,7 +41,7 @@ Features:
   - Whall Hack    (Broken)
   - Anti Flash
   - Radar Hack
-  - Enemy Rank Reveal
+  - Enemy Rank and Health
   - Anti AFK
   - TriggerBot
 
