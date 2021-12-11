@@ -16,9 +16,9 @@
 
 ### 🏠 [Homepage](https://github.com/loTus04/H-Csgo/blob/main/README.md)
 
-### ✨ [Demo](https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png)
-<img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown1.png" width="570" height="380"/> 
-<img src="https://github.com/loTus04/H-Csgo/blob/main/img/unknown2.png" width="570" height="380"/>
+### ✨ [Demo](https://media.discordapp.net/attachments/919204721024204820/919236390959612014/unknown1.png?width=1105&height=676)
+<img src="https://media.discordapp.net/attachments/919204721024204820/919236390959612014/unknown1.png?width=1105&height=676" width="570" height="380"/> 
+<img src="https://media.discordapp.net/attachments/919204721024204820/919236483766972426/unknown2.png?width=1323&height=676" width="570" height="380"/>
 </br>
 
 ## Prerequisites
