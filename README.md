@@ -67,7 +67,7 @@ This will male H-Csgo only show up when you pres <DELET> on your keyboard
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/H-Csgo/issues).\
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/loTus04/H-Csgo/issues).
 
 ## Show your support
 
