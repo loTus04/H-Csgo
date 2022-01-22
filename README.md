@@ -37,8 +37,9 @@ pip3 install -r requirements.txt
  ```
 H-Csgo is a Counter-Strike: Global Offensive External Cheat made with Python
 
+Warning: Everything is patched on this version, we are currently working on a new one
 Features:
-  - Whall Hack    (Broken)
+  - Whall Hack
   - Anti Flash
   - Radar Hack
   - Enemy Rank and Health
