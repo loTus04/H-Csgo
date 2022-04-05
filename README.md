@@ -39,7 +39,7 @@ H-Csgo is a Counter-Strike: Global Offensive External Cheat made with Python
 
 Features:
   - Visuals:
-    - Whall Hack
+    - Wall Hack
     - Anti Flash
     - Radar Hack
     - Enemy Rank and Health
@@ -52,7 +52,7 @@ Features:
     - Anti AFK
     - Bunny Hop
   - Misc:
-    - Null Byte Whall hack
+    - Null Byte Wall hack
     - See Enemy Money
 
 ```
