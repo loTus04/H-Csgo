@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to H-Csgo (Patched) 👋</h1>
+<h1 align="center">Welcome to H-Csgo (Works Again !) 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
@@ -39,12 +39,22 @@ H-Csgo is a Counter-Strike: Global Offensive External Cheat made with Python
 
 Warning: Everything is patched on this version, we are currently working on a new one
 Features:
-  - Whall Hack
-  - Anti Flash
-  - Radar Hack
-  - Enemy Rank and Health
-  - Anti AFK
-  - TriggerBot
+  - Visuals:
+    - Whall Hack
+    - Anti Flash
+    - Radar Hack
+    - Enemy Rank and Health
+    - Chams
+    - Third Person
+    - Fov Changer
+  - Aim:
+    - TriggerBot
+  - Macros:
+    - Anti AFK
+    - Bunny Hop
+  - Misc:
+    - Null Byte Whall hack
+    - See Enemy Money
 
 ```
 
@@ -52,7 +62,7 @@ Features:
 
 ```
 1. Run the H-Cheat.py file
-2. Run the injector.py file
+2. Run the injector.py file (OPTIONAL)
 
 This will male H-Csgo only show up when you pres <DELET> on your keyboard
 
