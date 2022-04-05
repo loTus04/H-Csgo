@@ -38,6 +38,7 @@ pip3 install -r requirements.txt
 H-Csgo is a Counter-Strike: Global Offensive External Cheat made with Python
 
 Features:
+
   - Visuals:
     - Wall Hack
     - Anti Flash
@@ -46,11 +47,14 @@ Features:
     - Chams
     - Third Person
     - Fov Changer
+    
   - Aim:
     - TriggerBot
+    
   - Macros:
     - Anti AFK
     - Bunny Hop
+    
   - Misc:
     - Null Byte Wall hack
     - See Enemy Money
