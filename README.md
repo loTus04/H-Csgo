@@ -21,7 +21,7 @@
 <img src="https://media.discordapp.net/attachments/919204721024204820/919236483766972426/unknown2.png?width=1323&height=676" width="570" height="380"/>
 </br>
 
-## Prerequisites
+## Requirements
 
 - pip3
 - python3
