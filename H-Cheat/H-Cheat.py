@@ -15,8 +15,6 @@ import ctypes
 import win32gui
 import win32con
 import re
-from math import *
-from Import.Vector3 import Vec3
 
 page_on_screen = "None"
 
